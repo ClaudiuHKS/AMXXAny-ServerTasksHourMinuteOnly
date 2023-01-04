@@ -8,4 +8,4 @@ Upload .ini and .cfg files to your configs directory. .cfg files are optional.
 
 Upload server_tasks.amxx file to your plugins directory.
 
-Edit plugins.ini file adding server_tasks.amxx.
+Edit plugins.ini file adding `server_tasks.amxx`.
